@@ -1,0 +1,44 @@
+
+h1 {
+
+    background-color: #19747E;
+    color:black;
+    margin-top: 1px;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+body {
+    background-color:#D1E8E2 ;#0F2143
+}
+button{
+    border: 0px solid rgb(12, 12, 12);
+     background-color:  #D1E8E2; #354E56
+     float: inline-start;
+     margin-inline: 82px;
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+h2 {
+    border: 1px solid black;
+    padding: 10px;
+    float: inline-start;
+    margin-top: 1px;
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+p {
+    border: 0,5px solid black;
+}
+b {
+    font-size: 30px;
+    text-align: center;
+    display: block;
+}
